@@ -1,37 +1,6 @@
-h1 {
-	border: 4mm outset pink;
-	border-radius: 15px;
-	box-shadow: 0 0 0 2rem skyblue;
-	text-align: center;
-}
-
 p {
-	font-size: 22px;
+	font-size: 20px;
 /*	line-height: 32px;
 	line-height: 2em;*/
 	line-height: 2;
-/*	background-color: cornsilk;*/
-background-color: rgba(255,187,0,0.5);
-}
-
-img {
-	vertical-align: middle;
-}
-
-ul {
-/*	list-style-type: circle;*/
-	list-style: circle inside url(../img/icon.png);
-}
-
-ol {
-	list-style-type: lower-greek;
-/*	list-style-type: none;*/
-}
-
-#open {
-	font-weight: bold;
-}
-
-.title {
-	text-align: center;
 }
